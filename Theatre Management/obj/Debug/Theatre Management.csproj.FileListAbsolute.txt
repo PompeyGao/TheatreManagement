@@ -1,0 +1,17 @@
+E:\C#小学期\20150714Theatre Management\Theatre Management\bin\Debug\Theatre Management.exe.config
+E:\C#小学期\20150714Theatre Management\Theatre Management\bin\Debug\Theatre Management.exe
+E:\C#小学期\20150714Theatre Management\Theatre Management\bin\Debug\Theatre Management.pdb
+E:\C#小学期\20150714Theatre Management\Theatre Management\bin\Debug\CSkin.dll
+E:\C#小学期\20150714Theatre Management\Theatre Management\bin\Debug\CSkin.xml
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre Management.csprojResolveAssemblyReference.cache
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre_Management.LoginForm.resources
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre_Management.Properties.Resources.resources
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre Management.csproj.GenerateResource.Cache
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre Management.exe
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre Management.pdb
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre_Management.Register.resources
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre_Management.AddFilm.resources
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre_Management.Admin.resources
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre_Management.OrderDetails.resources
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre_Management.SelectFilms.resources
+E:\C#小学期\20150714Theatre Management\Theatre Management\obj\Debug\Theatre_Management.SelectSeat.resources
